@@ -15,7 +15,7 @@ export default defineUserConfig({
     author: 'chinbor',
     authorAvatar: '/avatar.png',
     docsRepo: 'https://github.com/chinbor/chinbor.github.io',
-    docsBranch: 'gh-pages-source',
+    docsBranch: 'main',
     autoAddCategoryToNavbar: true,
     commentConfig: {
       type: 'valine',
