@@ -22,7 +22,7 @@ export default defineUserConfig({
       options: {
         appId: 'uNOBTOqW3vsJCgGYONGmUkBg-gzGzoHsz',
         appKey: 't9IapElpemuH1XP7RGHP2XTD',
-        placeholder: '填写邮箱可以收到回复提醒哦！',
+        placeholder: '请输入回复内容...',
         verify: true, // 验证码服务
         recordIP: true,
         hideComments: true // 全局隐藏评论

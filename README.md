@@ -21,6 +21,7 @@ blog:
   socialLinks:
     - { icon: 'BrandGithub', link: 'https://github.com/chinbor' }
     - { icon: 'BrandTwitter', link: 'https://twitter.com/chinborMn' }
+    - { icon: 'Discord', link: 'https://discord.gg/pE465e8k' }
 footer:
   startYear: '2022'
 ---
