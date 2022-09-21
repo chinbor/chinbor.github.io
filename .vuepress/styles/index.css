@@ -1,0 +1,8 @@
+.hero-content {
+  img {
+    @apply mb-8 !important;
+  }
+  p {
+    @apply text-2xl;
+  }
+}
