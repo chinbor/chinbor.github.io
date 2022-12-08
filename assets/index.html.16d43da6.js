@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-2d4ead3b","path":"/tags/yanjiubaogao/1/","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{a as data};

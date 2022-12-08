@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c8f7fd28","path":"/tags/algorithms/1/","title":"","lang":"zh-CN","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{t as data};
